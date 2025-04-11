@@ -1,0 +1,9 @@
+###
+post http://localhost:3000/email-api/send
+Content-Type: application/json
+
+{
+    "to":"kanth@gmail.com",
+    "subject":"sucess",
+    "message":"sucess"
+}
