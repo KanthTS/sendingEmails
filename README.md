@@ -27,3 +27,4 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
 
 ## 📁 Project Structure
 
+mern-email-sender/ │ ├── client/ # React frontend │ └── src/ │ ├── components/ │ ├── App.js │ └── index.js │ ├── server/ # Node + Express backend │ ├── routes/ │ ├── controllers/ │ ├── .env │ ├── server.js │ └── package.json │ └── README.md
